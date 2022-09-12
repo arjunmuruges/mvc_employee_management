@@ -1,0 +1,22 @@
+
+body{
+    background-color:khaki ;
+}.search{
+    display:flex;
+    gap:2rem;
+    margin-top: 2rem;
+    
+}
+.search2{
+    margin-top: 10px;
+}
+
+.v
+{
+    margin-top: 3rem;
+}
+.table,th,td{
+    border:solid;
+    width:10rem;
+    
+}

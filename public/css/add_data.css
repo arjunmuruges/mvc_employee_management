@@ -1,0 +1,17 @@
+.divc
+{
+ 
+    display:flex;
+    gap:5rem;
+    margin-left: 30rem;
+    width:450px;
+    border:solid;
+    padding-left: 3rem;
+    background-color: aquamarine;
+    
+}
+#c
+{
+    margin-left: 33rem;
+    margin-top: 5rem;
+}

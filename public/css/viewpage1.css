@@ -1,0 +1,6 @@
+.table,th,td
+{
+    border:solid;
+    background-color: rgb(255, 174, 127);
+    width:5%;
+}

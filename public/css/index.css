@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(52, 181, 175);
+}
+.c{
+    background-color: pink;
+    text-align: center;
+    /* margin-left: 468px;
+     */
+     margin-left: 470px;
+    margin-right: 600px;
+    width: 300px;
+    height: 200px;
+    padding:2rem;
+    margin-top: 11rem;
+    
+}
+.c1{
+    margin-top: 1rem;
+}

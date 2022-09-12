@@ -1,0 +1,16 @@
+.divc1
+{
+ 
+    display:flex;
+    gap:5rem;
+    margin-left: 30rem;
+    width:450px;
+    border:solid;
+    padding-left: 3rem;
+    background-color:lightblue;
+    
+}
+#c1{
+    margin-left: 40rem;
+    margin-top: 5rem;
+}
